@@ -7,7 +7,7 @@ body{
 }
 @media only screen and (max-width: 1024px) {
     .container{
-        margin-left: 200px;
+        margin-left: 260px;
     }
     .navbar-space{
         margin-left: 80px;
@@ -18,4 +18,5 @@ body{
     .pricing img{
         width: 900px;
     }
+    
   }
